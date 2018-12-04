@@ -54,8 +54,8 @@
 			children = (
 				9DA5A7E6217EEAB80041CF1A /* AppDelegate.swift */,
 				9DA5A7EA217EEAB80041CF1A /* Main.storyboard */,
-				9DA5A7ED217EEAB90041CF1A /* Assets.xcassets */,
 				9DA5A7EF217EEAB90041CF1A /* LaunchScreen.storyboard */,
+				9DA5A7ED217EEAB90041CF1A /* Assets.xcassets */,
 				9DA5A7F2217EEAB90041CF1A /* Info.plist */,
 			);
 			path = Flag;
