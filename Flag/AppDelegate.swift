@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  Flag
 //
-//  Created by Andrew R Madsen on 10/22/18.
+//  Created by Ilqar Ilyasov on 10/22/18.
 //  Copyright © 2018 Lambda School. All rights reserved.
 //
 
